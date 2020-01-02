@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575367067 source:c:\projekty do nauki programowania\zapisywanie\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
